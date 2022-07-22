@@ -29,3 +29,8 @@ Run the rock paper scissors game:
 ```sh
 python game.py
 ```
+## Testing
+
+Run the test
+
+pytest
